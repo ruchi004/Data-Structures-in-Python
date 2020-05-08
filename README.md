@@ -5,3 +5,4 @@ Implementation of few data structures with python
 2. Double Linked Lists
 3. Binary Search Tree
 4. Stack
+5. Finding Euler path in a graph
